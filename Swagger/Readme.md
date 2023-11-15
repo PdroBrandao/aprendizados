@@ -12,8 +12,6 @@ Como se fosse um manual de instruções para lidar com as API's RESTFul.
 Ele oferece várias ferramentas para criar e documentar apis. 
 
 
-
-
 ---
 ### SWAGGER x OPENAPI?
 
